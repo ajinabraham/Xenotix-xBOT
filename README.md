@@ -32,4 +32,4 @@ xBOT COMMANDS
 
 
 ######Contact:http://goo.gl/u7DYa2
-######Official Page: http://www.opensecurity.in
+######Official Page: http://opensecurity.in/xenotix_xbot/
