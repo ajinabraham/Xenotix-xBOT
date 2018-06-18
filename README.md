@@ -30,6 +30,3 @@ xBOT COMMANDS
 * xSCREENSHOT : Grab a Screenshot
 * xKILL : Kill and Remove the xBOT.
 
-
-######Contact:http://goo.gl/u7DYa2
-######Official Page: http://opensecurity.in/xenotix_xbot/
